@@ -1,4 +1,4 @@
-# Sc-
+# Sc
 Alo
 
 git clone https://github.com/limit9172/Sc-.git
